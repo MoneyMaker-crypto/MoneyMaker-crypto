@@ -12,8 +12,5 @@ me:
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile+im+hiddenfed)](https://git.io/typing-svg)
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&lines=welcome+to+my+profile+im+hiddenfed](https://git.io/typing-svg)
